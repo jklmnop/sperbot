@@ -1,3 +1,7 @@
+body {
+  background: #f00;
+}
+
 .col-lg-12 {
   padding: 0px!important;
 }
